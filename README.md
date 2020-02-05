@@ -1,5 +1,16 @@
-# cibook-python
+# 効果検証入門
+
+効果検証入門のRとPythonのコードである。
+
+# R
+著者がサポートしているRのサンプルコードである。
+https://github.com/ghmagazine/cibook
+
+# Python
+@nekoumi さんが作成したPythonのサンプルコードである。
+- https://qiita.com/nekoumei/items/648726e89d05cba6f432
 A Python implementation of the R code in https://github.com/ghmagazine/cibook
+
 ## environment
 ```
 # Python Version
